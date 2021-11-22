@@ -1,0 +1,10 @@
+
+public class abcd
+{
+public static void main (String[] args)
+{
+int i;
+int c=0;
+for(i=1;25<=i<=100 ; i++)
+{
+if(
